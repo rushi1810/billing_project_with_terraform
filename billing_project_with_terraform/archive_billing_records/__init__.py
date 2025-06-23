@@ -1,1 +1,0 @@
-# Archive billing records function placeholder

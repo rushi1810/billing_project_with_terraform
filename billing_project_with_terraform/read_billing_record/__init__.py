@@ -1,1 +1,0 @@
-# Read billing record function placeholder
